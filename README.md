@@ -1,4 +1,4 @@
-# Hello, World! Sou Vinicius Henrique, 31, Estudande de Ebngenharia de software
+# Hello, World! Sou Vinicius Henrique, 31, Estudande de Engenharia de software
 
 <!--
 **ViniciusHenriqueVH/ViniciusHenriqueVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
